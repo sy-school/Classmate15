@@ -1,0 +1,1 @@
+import{_,o as t,c as o,a as e}from"./app.6651f37b.js";const s={},c=e("p",null,"姓名: 陈喆铭 班级职务:学生",-1),n=e("p",null,"电话: 15382184337 生日:2005年3月20日",-1),l=e("p",null,"Q Q: 2013807035 微信号:13019328457",-1),a=e("p",null,"E-mail: 213807035@qq.com",-1),r=[c,n,l,a];function i(d,u){return t(),o("div",null,r)}const m=_(s,[["render",i],["__file","陈喆铭.html.vue"]]);export{m as default};

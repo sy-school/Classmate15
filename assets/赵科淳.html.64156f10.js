@@ -1,0 +1,1 @@
+import{_,o as t,c as o,a as e}from"./app.6651f37b.js";const n={},s=e("p",null,"姓名: 赵科淳 班级职务:学生",-1),c=e("p",null,"电话: 13840497099 生日:2005年07月04日",-1),l=e("p",null,"Q Q: 3540295760 微信号:xinwei294988",-1),a=e("p",null,"E-mail: 3540295760@qq.com",-1),i=[s,c,l,a];function r(d,u){return t(),o("div",null,i)}const m=_(n,[["render",r],["__file","赵科淳.html.vue"]]);export{m as default};

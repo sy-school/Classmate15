@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-27661a27","path":"/content/%E7%A7%A6%E5%AD%90%E6%99%97.html","title":"秦子晗","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"秦子晗","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/秦子晗.md"}');export{t as data};

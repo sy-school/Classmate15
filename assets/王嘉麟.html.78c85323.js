@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-093d0a44","path":"/content/%E7%8E%8B%E5%98%89%E9%BA%9F.html","title":"王嘉麟","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"王嘉麟","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/王嘉麟.md"}');export{t as data};

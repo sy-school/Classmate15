@@ -1,0 +1,1 @@
+import{_,o as t,c as o,a as e}from"./app.6651f37b.js";const n={},s=e("p",null,"姓名:柏卓良 班级职务:学生",-1),c=e("p",null,"电话:13694133907 生日:2004年12月07日",-1),l=e("p",null,"QQ: 1942393448 微信号:Baizhuoliang1",-1),a=[s,c,l];function r(i,d){return t(),o("div",null,a)}const h=_(n,[["render",r],["__file","柏卓良.html.vue"]]);export{h as default};

@@ -1,0 +1,1 @@
+import{_,o as t,c as o,a as e}from"./app.6651f37b.js";const n={},s=e("p",null,"姓名: 黄祉晴 班级职务:学生",-1),c=e("p",null,"电话: 18941214333 生日:2004年12月29日",-1),l=e("p",null,"Q Q: 274358818 微信号: Qingg1229",-1),a=e("p",null,"E-mail: ym.1051@163.com",-1),i=[s,c,l,a];function r(d,m){return t(),o("div",null,i)}const h=_(n,[["render",r],["__file","黄祉晴.html.vue"]]);export{h as default};

@@ -1,0 +1,1 @@
+import{_,o,c as t,a as e}from"./app.6651f37b.js";const s={},n=e("p",null,"姓名: 孙皓月 班级职务:学生",-1),c=e("p",null,"电话:13130243796 生日:2005年04月10日",-1),l=e("p",null,"Q Q: 2815942670 微信号:sunhaoyue0410",-1),a=e("p",null,"E-mail: 2815942670@qq.com",-1),r=[n,c,l,a];function i(u,d){return o(),t("div",null,r)}const m=_(s,[["render",i],["__file","孙皓月.html.vue"]]);export{m as default};

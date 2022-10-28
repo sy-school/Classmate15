@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-72fc0b4a","path":"/content/%E6%9D%8E%E4%BF%8A%E6%BE%8D.html","title":"李俊澍","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"李俊澍","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/李俊澍.md"}');export{t as data};

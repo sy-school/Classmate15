@@ -1,0 +1,1 @@
+import{_,o as t,c as o,a as e}from"./app.6651f37b.js";const s={},c=e("p",null,"姓名: 贾子墨 班级职务:学生",-1),n=e("p",null,"电话: 15909818817 生日:2004年11月23日",-1),l=e("p",null,"Q Q: 2837981926 微信号:jzm2004123",-1),a=e("p",null,"E-mail: 2837981926@qq.com",-1),r=[c,n,l,a];function i(d,m){return t(),o("div",null,r)}const h=_(s,[["render",i],["__file","贾子墨.html.vue"]]);export{h as default};

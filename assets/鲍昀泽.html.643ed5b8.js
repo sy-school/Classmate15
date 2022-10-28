@@ -1,0 +1,1 @@
+import{_,o,c as t,a as e}from"./app.6651f37b.js";const n={},s=e("p",null,"姓名: 鲍昀泽 班级职务:学生",-1),c=e("p",null,"电话: 13236607607 生日:2005年7月11日",-1),l=e("p",null,"Q Q: 1731897171 微信号:VXbaoyunze13236607607",-1),a=e("p",null,"E-mail: 1731897171@qq.com",-1),r=[s,c,l,a];function i(d,u){return o(),t("div",null,r)}const m=_(n,[["render",i],["__file","鲍昀泽.html.vue"]]);export{m as default};

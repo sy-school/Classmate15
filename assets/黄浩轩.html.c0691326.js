@@ -1,0 +1,1 @@
+import{_,o as t,c as o,a as e}from"./app.6651f37b.js";const s={},c=e("p",null,"姓名: 黄浩轩 班级职务:学生",-1),n=e("p",null,"电话:15998898895 生日:2004年10月15日",-1),l=e("p",null,"Q Q: 2635009418 微信号:hhx20041015",-1),a=e("p",null,"E-mail:hhx2635009418@163.com",-1),h=[c,n,l,a];function r(i,d){return t(),o("div",null,h)}const m=_(s,[["render",r],["__file","黄浩轩.html.vue"]]);export{m as default};

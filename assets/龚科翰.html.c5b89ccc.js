@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5c196402","path":"/content/%E9%BE%9A%E7%A7%91%E7%BF%B0.html","title":"龚科翰","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"龚科翰","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/龚科翰.md"}');export{t as data};

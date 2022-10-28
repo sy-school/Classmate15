@@ -1,0 +1,1 @@
+import{_,o as t,c as o,a as e}from"./app.6651f37b.js";const n={},s=e("p",null,"姓名: 翟怡宁 班级职务:学生",-1),c=e("p",null,"电话: 15702432100 生日:2005年09月16日",-1),l=e("p",null,"Q Q: 269453220 微信号:zhaiyining9y16r",-1),a=e("p",null,"E-mail: 269453220@qq.com",-1),i=[s,c,l,a];function r(d,h){return t(),o("div",null,i)}const m=_(n,[["render",r],["__file","翟怡宁.html.vue"]]);export{m as default};

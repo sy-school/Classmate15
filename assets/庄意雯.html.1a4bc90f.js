@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2460a909","path":"/content/%E5%BA%84%E6%84%8F%E9%9B%AF.html","title":"庄意雯","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"庄意雯","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/庄意雯.md"}');export{t as data};

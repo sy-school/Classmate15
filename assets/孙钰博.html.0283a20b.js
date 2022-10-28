@@ -1,0 +1,1 @@
+import{_,o as t,c as o,a as e}from"./app.6651f37b.js";const s={},c=e("p",null,"姓名: 孙钰博 班级职务:英语课代表",-1),n=e("p",null,"电话: 17740075204 生日:2004年12月25日",-1),l=e("p",null,"Q Q: 2586970609 微信号:syb20041225",-1),a=e("p",null,"E-mail: 2586970609@qq.com",-1),r=[c,n,l,a];function i(d,u){return t(),o("div",null,r)}const m=_(s,[["render",i],["__file","孙钰博.html.vue"]]);export{m as default};

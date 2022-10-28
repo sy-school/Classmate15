@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-34b7588a","path":"/content/%E5%BC%A0%E9%A6%A8%E8%89%BA.html","title":"张馨艺","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"张馨艺","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/张馨艺.md"}');export{t as data};

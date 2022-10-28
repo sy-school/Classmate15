@@ -1,0 +1,1 @@
+import{_,o as t,c as o,a as e}from"./app.6651f37b.js";const s={},c=e("p",null,"姓名: 杨雅淇 班级职务:英语科代表",-1),n=e("p",null,"电话: 17624055365 生日:2005年8月29日",-1),l=e("p",null,"Q Q: 3414332257 微信号: Y11270316",-1),a=e("p",null,"E-mail:3414332257@qq.com",-1),r=[c,n,l,a];function i(d,u){return t(),o("div",null,r)}const m=_(s,[["render",i],["__file","杨雅淇.html.vue"]]);export{m as default};

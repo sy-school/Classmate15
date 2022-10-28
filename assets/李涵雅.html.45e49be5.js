@@ -1,0 +1,1 @@
+import{_,o as t,c as o,a as e}from"./app.6651f37b.js";const s={},c=e("p",null,"姓名: 李涵雅 班级职务:学生",-1),n=e("p",null,"电话: 15942003211 生日:2004年12月28日",-1),l=e("p",null,"Q Q: 2314280191 微信号:ya15942003211",-1),a=e("p",null,"E-mail:2314280191@qq.com",-1),r=[c,n,l,a];function i(d,u){return t(),o("div",null,r)}const m=_(s,[["render",i],["__file","李涵雅.html.vue"]]);export{m as default};

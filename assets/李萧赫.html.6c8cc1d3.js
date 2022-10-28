@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-d59b303e","path":"/content/%E6%9D%8E%E8%90%A7%E8%B5%AB.html","title":"李萧赫","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"李萧赫","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/李萧赫.md"}');export{t as data};

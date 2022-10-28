@@ -1,0 +1,1 @@
+import{_,o as t,c as o,a as e}from"./app.6651f37b.js";const s={},c=e("p",null,"姓名: 王嘉麟 班级职务:无",-1),n=e("p",null,"电话: 13898806663 生日:2005年2月16日",-1),l=e("p",null,"Q Q: 2280494918 微信号:13898806663",-1),a=e("p",null,"E-mail: 2280494918@qq.com",-1),r=[c,n,l,a];function i(d,u){return t(),o("div",null,r)}const m=_(s,[["render",i],["__file","王嘉麟.html.vue"]]);export{m as default};

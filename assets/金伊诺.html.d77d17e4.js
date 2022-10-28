@@ -1,0 +1,1 @@
+import{_,o as t,c as o,a as e}from"./app.6651f37b.js";const s={},c=e("p",null,"姓名: 金伊诺 班级职务:学生",-1),n=e("p",null,"电话: 18740071791 生日:2005年2月22日",-1),l=e("p",null,"Q Q: 1023535543 微信号:18740071971",-1),a=e("p",null,"E-mail: 1023535543@qq.com",-1),r=[c,n,l,a];function i(d,u){return t(),o("div",null,r)}const m=_(s,[["render",i],["__file","金伊诺.html.vue"]]);export{m as default};

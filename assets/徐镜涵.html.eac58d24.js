@@ -1,0 +1,1 @@
+import{_,o as t,c as o,a as e}from"./app.6651f37b.js";const s={},c=e("p",null,"姓名: 徐镜涵 班级职务:班长",-1),n=e("p",null,"电话: 15710522085 生日:2005年06月22日",-1),l=e("p",null,"Q Q: 3391640751 微信号:xjh356053026",-1),a=e("p",null,"E-mail:1157695152@qq.com",-1),r=[c,n,l,a];function i(d,h){return t(),o("div",null,r)}const m=_(s,[["render",i],["__file","徐镜涵.html.vue"]]);export{m as default};

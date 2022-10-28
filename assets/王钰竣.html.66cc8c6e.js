@@ -1,0 +1,1 @@
+import{_,o as t,c as o,a as e}from"./app.6651f37b.js";const n={},s=e("p",null,"姓名: 王钰竣 班级职务:学生",-1),c=e("p",null,"电话:13066619887 生日:2004年10月1日",-1),l=e("p",null,"Q Q: 2776337005 微信号:wang111313123",-1),a=e("p",null,"E-mail: 2776337005 @qq.com",-1),r=[s,c,l,a];function i(d,u){return t(),o("div",null,r)}const m=_(n,[["render",i],["__file","王钰竣.html.vue"]]);export{m as default};

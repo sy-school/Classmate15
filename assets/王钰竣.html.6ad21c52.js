@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5e8efb5a","path":"/content/%E7%8E%8B%E9%92%B0%E7%AB%A3.html","title":"王钰竣","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"王钰竣","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/王钰竣.md"}');export{t as data};

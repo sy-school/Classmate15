@@ -1,0 +1,1 @@
+import{_,o as t,c as o,a as e}from"./app.6651f37b.js";const s={},c=e("p",null,"姓名: 何彦凝 班级职务:学生",-1),n=e("p",null,"电话: 13591677029生日:2005年08月31日",-1),l=e("p",null,"QQ: 2016672278 微信号:13591677029",-1),a=e("p",null,"E-mail: 2016672278@qq.com",-1),r=[c,n,l,a];function i(d,u){return t(),o("div",null,r)}const m=_(s,[["render",i],["__file","何彦凝.html.vue"]]);export{m as default};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2d33db52","path":"/content/%E8%B5%B5%E7%A7%91%E6%B7%B3.html","title":"赵科淳","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"赵科淳","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/赵科淳.md"}');export{t as data};

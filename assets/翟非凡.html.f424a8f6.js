@@ -1,0 +1,1 @@
+import{_,o as t,c as o,a as e}from"./app.6651f37b.js";const s={},c=e("p",null,"姓名: 翟非凡 班级职务:学生",-1),n=e("p",null,"电话: 18604051746 生日:2005年7月22日",-1),l=e("p",null,"Q Q: 3210448179 微信号:FEIFAN1536340968",-1),a=e("p",null,"E-mail: 1023535543@qq.com",-1),r=[c,n,l,a];function i(d,u){return t(),o("div",null,r)}const m=_(s,[["render",i],["__file","翟非凡.html.vue"]]);export{m as default};

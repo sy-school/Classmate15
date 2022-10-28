@@ -1,0 +1,1 @@
+import{_,o as t,c as o,a as e}from"./app.6651f37b.js";const s={},c=e("p",null,"姓名: 王晟阳 班级职务:数学课代表",-1),n=e("p",null,"电话:15504002898 生日:2005年4月18日",-1),l=e("p",null,"Q Q: 1062620454 微信号:wsy20050418",-1),a=e("p",null,"E-mail: 1062620454@qq.com",-1),r=[c,n,l,a];function i(d,u){return t(),o("div",null,r)}const m=_(s,[["render",i],["__file","王晟阳.html.vue"]]);export{m as default};

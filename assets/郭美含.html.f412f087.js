@@ -1,0 +1,1 @@
+import{_,o as t,c as o,a as e}from"./app.6651f37b.js";const s={},c=e("p",null,"姓名: 郭美含 班级职务:学生",-1),n=e("p",null,"电话:13066511015 生日:2005年2月23日",-1),l=e("p",null,"Q Q: 3424124895 微信号:G17183344",-1),a=e("p",null,"E-mail: 3424124895@qq.com",-1),r=[c,n,l,a];function i(d,u){return t(),o("div",null,r)}const m=_(s,[["render",i],["__file","郭美含.html.vue"]]);export{m as default};

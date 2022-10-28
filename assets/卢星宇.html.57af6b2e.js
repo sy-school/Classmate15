@@ -1,0 +1,1 @@
+import{_,o as t,c as o,a as e}from"./app.6651f37b.js";const s={},n=e("p",null,"姓名: 卢星宇 班级职务:体育委员",-1),c=e("p",null,"电话: 13898116488 生日:2005年1月4日",-1),l=e("p",null,"Q Q: 858417345 微信号: 13898116488",-1),a=e("p",null,"E-mail: 13898116488",-1),r=[n,c,l,a];function i(d,u){return t(),o("div",null,r)}const p=_(s,[["render",i],["__file","卢星宇.html.vue"]]);export{p as default};

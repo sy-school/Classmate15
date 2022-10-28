@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-65d560f7","path":"/content/%E8%80%BF%E5%98%89%E6%BE%B3.html","title":"耿嘉澳","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"耿嘉澳","description":"内容"},"excerpt":"","headers":[],"git":{},"filePathRelative":"content/耿嘉澳.md"}');export{t as data};

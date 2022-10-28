@@ -1,0 +1,1 @@
+import{_,o as t,c as o,a as e}from"./app.6651f37b.js";const s={},c=e("p",null,"姓名: 田芷瑜 班级职务:学生",-1),n=e("p",null,"电话: 13591680758 生日:2005年4月11日",-1),l=e("p",null,"Q Q: 812944343 微信号:13591680758",-1),a=e("p",null,"E-mail: 812944343@qq.com",-1),r=[c,n,l,a];function i(d,u){return t(),o("div",null,r)}const m=_(s,[["render",i],["__file","田芷瑜.html.vue"]]);export{m as default};

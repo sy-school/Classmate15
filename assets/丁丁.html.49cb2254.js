@@ -1,0 +1,1 @@
+import{_ as t,o as _,c as o,a as e}from"./app.6651f37b.js";const s={},c=e("p",null,"姓名: 丁丁 班级职务:学生",-1),n=e("p",null,"电话: 13066703580 生日:2005年6月10日",-1),l=e("p",null,"Q Q: 2939803400 微信号:13066703580",-1),a=e("p",null,"E-mail: 2939803400@qq.com",-1),r=[c,n,l,a];function i(d,u){return _(),o("div",null,r)}const m=t(s,[["render",i],["__file","丁丁.html.vue"]]);export{m as default};
